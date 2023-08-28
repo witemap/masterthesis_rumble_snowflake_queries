@@ -1,0 +1,1 @@
+SELECT SUM(var_intstr1) FROM HET;

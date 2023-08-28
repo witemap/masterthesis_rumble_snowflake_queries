@@ -1,0 +1,1 @@
+SELECT SUM(int_int1) FROM HET;
